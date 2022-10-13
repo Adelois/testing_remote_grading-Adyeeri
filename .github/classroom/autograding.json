@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Func.cpp",
+      "setup": "git clone https://github.com/Adelois/remote_tests.git",
+      "run": "make test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    }
+  ]
+}
