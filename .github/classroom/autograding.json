@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "Func.cpp",
-      "setup": "git clone https://github.com/Adelois/remote_tests.git && cd Tests",
+      "setup": "git clone git@github.com:Adelois/remote_tests.git",
       "run": "make test",
       "input": "",
       "output": "",
